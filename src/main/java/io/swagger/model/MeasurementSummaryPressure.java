@@ -14,7 +14,6 @@ import javax.validation.constraints.*;
  * MeasurementSummaryPressure
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-09-30T16:06:41.517+01:00[Europe/London]")
 public class MeasurementSummaryPressure   {
   @JsonProperty("average")
   private Double average = null;
